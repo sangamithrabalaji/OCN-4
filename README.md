@@ -131,6 +131,8 @@ plt.show()
 
 <img width="426" height="245" alt="image" src="https://github.com/user-attachments/assets/d0859c61-c590-4275-bffe-8560155767c7" />
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a88d1d58-4914-46b9-999c-9b0f9e2f4ea3" />
+
 
 ## Result 
 
